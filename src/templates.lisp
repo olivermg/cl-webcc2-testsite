@@ -3,4 +3,4 @@
 (export '())
 
 (deftemplate 'loginform
-    "loginformloginform")
+    "/login returned cc __continuation__!")
